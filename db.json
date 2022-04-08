@@ -1,0 +1,22 @@
+{
+  "registeration": [
+    {
+      "name": "Kritika",
+      "age": "23",
+      "date": "2022-04-20",
+      "state_of_residence": "state1",
+      "pincode": "396541",
+      "address": "add1",
+      "id": 1
+    },
+    {
+      "name": "fvf",
+      "age": "23",
+      "date": "2022-04-20",
+      "state_of_residence": "state2",
+      "pincode": "34455",
+      "address": "add2",
+      "id": 2
+    }
+  ]
+}

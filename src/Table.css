@@ -1,0 +1,8 @@
+.show{
+    display: flex;
+    margin-left: 40px;
+    gap: 2px;
+}
+.show>p{
+    border: 1px solid black;
+}
